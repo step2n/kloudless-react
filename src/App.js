@@ -77,7 +77,7 @@ class Fileuploader extends React.Component{
     this.explorer = new window.Kloudless.explorer({
       app_id: 'X9oaWHtuldy9Joik3mmv3gnGafF6fsQQAyTwVKo1R11CKl2B',
       multiselect: false,
-      computer: false,
+      computer: true,
       services: ['all'],
       types: ['all']
     });
