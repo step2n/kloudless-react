@@ -1,0 +1,15 @@
+.header
+{
+  background-color: #37424f;
+}
+.sandbox
+{
+  padding: 6px 15px;
+  border: 1px dashed gray;
+  min-height: 54px;
+}
+
+#chooser
+{
+  margin-right: 15px;
+}
